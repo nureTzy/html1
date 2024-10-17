@@ -1,4 +1,9 @@
-bash
-      echo "# My Commit Repo" > README.md
-      git add README.md
-      git commit -m "Initial commit with README
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Commit Project</title>
+</head>
+<body>
+  <h1>Welcome to my project!</h1>
+</body>
+</html>
