@@ -3,6 +3,7 @@
     <html>
     <head>
       <title>My Commit Project</title>
+<link rel="stylesheet" href="nure1212.css">
     </head>
     <body>
       <h1>Welcome to my project!</h1>
